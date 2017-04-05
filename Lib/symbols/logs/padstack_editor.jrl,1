@@ -1,0 +1,6 @@
+\t (00:00:00) padstack_editor 17.2 S002 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Apr 04 17:32:11 2017
+\t (00:00:00)         Host=BE308PC07 User=mrcarber Pid=10896 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession mrcarber -file C:/Users/mrcarber/Documents/GitHub/ColpittsOscillator/lib/symbols/hole125.pad -tempout C:/Users/mrcarber/Documents/GitHub/ColpittsOscillator/Lib/symbols/#Taaaadw01172.tmp -p C:/Users/mrcarber/Documents/GitHub/ColpittsOscillator/Lib/symbols
+\t (00:00:00) 
+\t (00:00:01)     Journal end - Tue Apr 04 17:32:12 2017

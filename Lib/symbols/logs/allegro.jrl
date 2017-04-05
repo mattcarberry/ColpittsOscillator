@@ -1,0 +1,215 @@
+\t (00:02:22) allegro 17.2 S002 Windows SPB 64-bit Edition
+\t (00:02:22)     Journal start - Tue Apr 04 18:34:09 2017
+\t (00:02:22)         Host=BE308PC07 User=mrcarber Pid=1852 CPUs=4
+\t (00:02:22) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:02:22) 
+\t (00:02:22) Starting new design...
+\i (00:02:22) trapsize 669
+\i (00:02:22) trapsize 684
+\i (00:02:22) trapsize 1123
+\i (00:02:22) trapsize 1123
+\i (00:02:22) generaledit 
+\i (00:04:06) padeditlib 
+\i (00:04:18) fillin "Hole120"
+\i (00:07:44) fillin "menu_cancel"
+\i (00:07:46) fillin yes 
+\i (00:07:46) generaledit 
+\i (00:07:53) add pin 
+\i (00:07:54) setwindow form.mini
+\i (00:07:54) FORM mini pad_browse  
+\i (00:08:06) fillin "Hole95"
+\t (00:08:06) Using 'HOLE95.pad'.
+\i (00:08:17) setwindow pcb
+\i (00:08:17) pick grid 13721.3 9140.0
+\t (00:08:17) last pick:  13700.0 9100.0
+\t (00:08:17) Using 'HOLE95.pad'.
+\i (00:08:18) zoom in 1 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom in 13406.9 9836.2
+\i (00:08:18) trapsize 561
+\i (00:08:18) zoom in 1 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom in 10624.8 9746.4
+\i (00:08:18) trapsize 281
+\i (00:08:18) zoom in 1 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom in 10866.2 9521.9
+\i (00:08:18) trapsize 140
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 11464.2 9586.4
+\i (00:08:19) trapsize 281
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 11464.2 9586.5
+\i (00:08:19) trapsize 561
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 11464.1 9586.5
+\i (00:08:19) trapsize 1123
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 19470.3 9274.8
+\i (00:08:19) trapsize 1123
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 19470.3 9274.8
+\i (00:08:19) trapsize 1123
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 19470.3 9297.2
+\i (00:08:19) trapsize 1123
+\i (00:08:20) zoom in 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in 15113.6 9117.6
+\i (00:08:20) trapsize 561
+\i (00:08:21) zoom in 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom in 13970.9 8994.1
+\i (00:08:21) trapsize 281
+\i (00:08:21) zoom in 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom in 13971.0 8994.1
+\i (00:08:21) trapsize 140
+\i (00:08:22) zoom in 1 
+\i (00:08:22) setwindow pcb
+\i (00:08:22) zoom in 14100.1 9083.9
+\i (00:08:22) trapsize 70
+\i (00:08:26) pick grid 13948.5 9069.9
+\t (00:08:26) last pick:  13900.0 9100.0
+\t (00:08:26) Using 'HOLE95.pad'.
+\i (00:08:27) prepopup 14105.7 8987.1
+\i (00:08:28) done 
+\t (00:08:28) Exiting from Add Pin.
+\i (00:08:28) generaledit 
+\w (00:10:05) Save pending
+\i (00:18:15) prepopup 13899.4 9117.6
+\i (00:18:16) pop dyn_option_select @:@Move 
+\i (00:18:16) move 
+\t (00:18:16) last pick:  13900.0 9100.0
+\t (00:18:16) last pick:  13900.0 9100.0
+\t (00:18:16) Pick new location for the element(s).
+\i (00:18:18) pick grid 13948.5 9085.3
+\t (00:18:18) last pick:  13900.0 9100.0
+\t (00:18:18) Performing autosave...
+\t (00:18:18) Autosave successful
+\i (00:18:18) generaledit 
+\i (00:18:40) prepopup 13862.9 9081.1
+\i (00:18:47) pick grid 13708.5 9083.9
+\t (00:18:47) last pick:  13700.0 9100.0
+\i (00:18:51) chg origin 
+\t (00:18:51) Pick new location for drawing origin.
+\i (00:18:52) pick grid 13686.1 9106.4
+\t (00:18:52) last pick:  13700.0 9100.0
+\i (00:18:52) trapsize 70
+\t (00:18:52) Pick point (13700.0 9100.0) changed to origin (0.0, 0.0)
+\i (00:18:52) generaledit 
+\i (00:18:54) pick grid 184.0 6.4
+\t (00:18:54) last pick:  200.0 0.0
+\i (00:18:56) pick grid 53.4 7.8
+\t (00:18:56) last pick:  100.0 0.0
+\i (00:19:01) pick grid 200.8 3.6
+\t (00:19:01) last pick:  200.0 0.0
+\i (00:19:02) prepopup 200.8 3.6
+\i (00:19:03) pop dyn_option_select @:@Move 
+\i (00:19:03) move 
+\t (00:19:03) last pick:  200.0 0.0
+\t (00:19:03) last pick:  200.0 0.0
+\t (00:19:03) Pick new location for the element(s).
+\i (00:19:11) pick grid 351.0 -7.6
+\t (00:19:11) last pick:  400.0 0.0
+\i (00:19:11) generaledit 
+\i (00:19:22) define grid 
+\t (00:19:22) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:19:22) generaledit 
+\i (00:19:25) setwindow form.grid
+\i (00:19:25) FORM grid non_etch non_etch_x_grids 5 
+\i (00:19:27) FORM grid non_etch non_etch_y_grids 5 
+\i (00:19:28) FORM grid done  
+\i (00:19:29) setwindow pcb
+\i (00:19:29) prepopup 391.7 -0.6
+\i (00:19:30) pop dyn_option_select @:@Move 
+\i (00:19:30) move 
+\t (00:19:30) last pick:  390.0 0.0
+\t (00:19:30) last pick:  400.0 0.0
+\t (00:19:30) Pick new location for the element(s).
+\i (00:19:35) pick grid 315.9 -2.0
+\t (00:19:35) last pick:  315.0 0.0
+\i (00:19:35) generaledit 
+\i (00:19:39) add pin 
+\t (00:19:39) Using 'HOLE95.pad'.
+\i (00:20:58) pick grid 157.3 -226.6
+\t (00:20:58) last pick:  155.0 -225.0
+\t (00:20:58) Using 'HOLE95.pad'.
+\i (00:21:01) prepopup 300.5 -176.1
+\i (00:21:02) done 
+\t (00:21:02) Exiting from Add Pin.
+\i (00:21:02) generaledit 
+\i (00:21:03) pick grid 143.3 -235.0
+\t (00:21:03) last pick:  145.0 -235.0
+\i (00:21:06) pick grid 36.6 -27.3
+\t (00:21:06) last pick:  35.0 -25.0
+\i (00:21:06) pick grid 331.3 -4.8
+\t (00:21:06) last pick:  330.0 -5.0
+\i (00:21:11) add text 
+\t (00:21:11) Pick text location.
+\i (00:21:14) pick grid -131.8 31.7
+\t (00:21:14) last pick:  -130.0 30.0
+\t (00:21:14) Enter text string.
+\i (00:21:19) setwindow pcb
+\i (00:21:19) pick -130.0 30.0
+\t (00:21:19) Enter text string.
+\i (00:21:22) prepopup 273.8 34.5
+\i (00:21:24) cancel 
+\i (00:21:24) generaledit 
+\i (00:21:26) setwindow form.mini
+\i (00:21:26) FORM mini class REF DES 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) pick grid -192.2 20.4
+\t (00:21:27) last pick:  -190.0 20.0
+\i (00:21:29) add text 
+\t (00:21:29) Pick text location.
+\i (00:21:30) pick grid -190.8 45.7
+\t (00:21:30) last pick:  -190.0 45.0
+\t (00:21:30) Enter text string.
+\i (00:21:34) setwindow pcb
+\i (00:21:34) prepopup -134.6 9.2
+\i (00:21:35) done 
+\i (00:21:35) setwindow pcb
+\i (00:21:35) pick -190.0 45.0
+\i (00:21:35) setwindow pcb
+\i (00:21:35) generaledit 
+\i (00:21:38) setwindow form.mini
+\i (00:21:38) FORM mini subclass SILKSCREEN_TOP 
+\i (00:21:39) setwindow pcb
+\i (00:21:39) pick grid 397.3 52.7
+\t (00:21:39) last pick:  395.0 55.0
+\i (00:21:40) prepopup 422.6 44.3
+\i (00:21:42) pick grid 360.8 125.7
+\t (00:21:42) last pick:  360.0 125.0
+\i (00:21:44) prepopup -169.7 56.9
+\i (00:21:44) pop dyn_option_select @:@Move 
+\i (00:21:44) move 
+\t (00:21:44) last pick:  -170.0 55.0
+\t (00:21:44) last pick:  -190.0 45.0
+\t (00:21:44) Pick new location for the element(s).
+\i (00:21:46) pick grid -137.5 -16.1
+\t (00:21:46) last pick:  -135.0 -15.0
+\i (00:21:46) generaledit 
+\i (00:21:48) add text 
+\t (00:21:48) Pick text location.
+\i (00:21:50) pick grid 402.9 6.4
+\t (00:21:50) last pick:  405.0 5.0
+\t (00:21:50) Enter text string.
+\i (00:21:52) setwindow pcb
+\i (00:21:52) prepopup 401.5 7.8
+\i (00:21:53) done 
+\i (00:21:53) setwindow pcb
+\i (00:21:53) pick 405.0 5.0
+\i (00:21:53) setwindow pcb
+\i (00:21:53) generaledit 
+\i (00:21:59) save 
+\t (00:22:00) Symbol 'mystery_varcap_10-47pf.psm' created.
+\i (00:22:00) generaledit 
+\i (00:22:38) exit 
+\t (00:22:38)     Journal end - Tue Apr 04 18:54:25 2017
