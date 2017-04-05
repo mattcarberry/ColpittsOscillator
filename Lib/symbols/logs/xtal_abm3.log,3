@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : xtal_abm3.dra                                 )
 (    Software Version : 17.2S002                                      )
-(    Date/Time        : Tue Apr 04 16:33:28 2017                      )
+(    Date/Time        : Tue Apr 04 16:39:14 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,7 +18,6 @@ Create Symbol of type: PACKAGE
 
 Create symbol started.
  
- ERROR(SPMHCS-1): Symbol is missing a refdes. 
 
-ERROR(SPMHA1-291): Create symbol has been aborted.
+Create symbol completed.
 

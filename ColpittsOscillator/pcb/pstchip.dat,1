@@ -1,0 +1,159 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 02:03:37}
+primitive 'C_SMC0805_24PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='SMC0805';
+    VALUE='24pF';
+  end_body;
+end_primitive;
+primitive 'C_VAR_SMC0805_24PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C_var';
+    JEDEC_TYPE='SMC0805';
+    VALUE='24pF';
+  end_body;
+end_primitive;
+primitive 'C_VAR_MYSTERY_VARCAP_2_8PF_6PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C_var';
+    JEDEC_TYPE='MYSTERY_VARCAP_2_8PF';
+    VALUE='6pf';
+  end_body;
+end_primitive;
+primitive 'C_SMC0805_1N';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='SMC0805';
+    VALUE='1n';
+  end_body;
+end_primitive;
+primitive 'COAX RECEPTACLE_MOLEX_SMA_COAX';
+  pin
+    'CENTER 1':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'SHIELD':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'SHIELD 2':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='COAX RECEPTACLE';
+    JEDEC_TYPE='MOLEX_SMA';
+    VALUE='COAX RECEPTACLE';
+  end_body;
+end_primitive;
+primitive 'HEADER 2_JUMPER2_HEADER 2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER 2';
+    JEDEC_TYPE='JUMPER2';
+    VALUE='HEADER 2';
+  end_body;
+end_primitive;
+primitive 'L_SML0805_10UH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='L';
+    JEDEC_TYPE='SML0805';
+    VALUE='10uH';
+  end_body;
+end_primitive;
+primitive 'MPS2222_SOT23_MPS2222';
+  pin
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'E':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MPS2222';
+    JEDEC_TYPE='SOT23';
+    VALUE='MPS2222';
+  end_body;
+end_primitive;
+primitive 'R_VAR_POT_BOURNS_3310_10K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_var';
+    JEDEC_TYPE='pot_bourns_3310';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'QZS10MEG_XTAL_ABM3_QZS10MEG';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='QZS10MEG';
+    JEDEC_TYPE='XTAL_ABM3';
+    VALUE='QZS10MEG';
+  end_body;
+end_primitive;
+END.

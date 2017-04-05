@@ -4,16 +4,16 @@
 (                                                                     )
 (    Drawing          : xtal_abm3.dra                                 )
 (    Software Version : 17.2S002                                      )
-(    Date/Time        : Tue Apr 04 16:39:14 2017                      )
+(    Date/Time        : Wed Apr 05 02:29:57 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = C:/Users/mrcarber/Documents/GitHub/ColpittsOscillator/Lib/symbols
+    Directory = C:/Users/mcarberry/Documents/Git/ColpittsOscillator/Lib/symbols
     Name      = xtal_abm3.psm
-    User      = mrcarber
-    Machine   = BE308PC07
+    User      = mcarberry
+    Machine   = DESKTOP-NHEKLT3
 
 
 Create symbol started.

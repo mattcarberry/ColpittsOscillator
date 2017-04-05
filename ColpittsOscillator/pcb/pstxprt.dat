@@ -1,0 +1,120 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 02:35:25 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='COLPITTSOSCILLATOR';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_SMC0805_24PF':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS73@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins73@analog.\c.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins73@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_VAR_SMC0805_24PF':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS1231@ANALOG.C_VAR.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins1231@analog.\c_var.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins1231@analog.\c_var.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_VAR_MYSTERY_VARCAP_2_8PF_6PF':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS130@ANALOG.C_VAR.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins130@analog.\c_var.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins130@analog.\c_var.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_SMC0805_1N':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS691@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins691@analog.\c.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins691@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_SMC0805_1N':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS815@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins815@analog.\c.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins815@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR1 'COAX RECEPTACLE_MOLEX_SMA_COAX':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS763@SMA.COAX RECEPTACLE.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins763@sma.\coax receptacle.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins763@sma.\coax receptacle.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 2_JUMPER2_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS595@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins595@connector.\header 2.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins595@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'L_SML0805_10UH':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS523@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins523@analog.\l.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins523@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MPS2222_SOT23_MPS2222':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS28@BIPOLAR.MPS2222.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins28@bipolar.\mps2222.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins28@bipolar.\mps2222.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'POT_POT_BOURNS_3310_POT':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS2529@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins2529@discrete.\pot.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins2529@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'QZS10MEG_XTAL_ABM3_QZS10MEG':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS193@XTAL.QZS10MEG.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins193@xtal.\qzs10meg.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins193@xtal.\qzs10meg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

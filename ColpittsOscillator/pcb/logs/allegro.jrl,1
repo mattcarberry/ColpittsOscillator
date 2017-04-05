@@ -1,0 +1,26 @@
+\t (00:00:44) allegro 17.2 S002 Windows SPB 64-bit Edition
+\t (00:00:44)     Journal start - Wed Apr 05 02:30:47 2017
+\t (00:00:44)         Host=DESKTOP-NHEKLT3 User=mcarberry Pid=10096 CPUs=4
+\t (00:00:44) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:44) 
+\d (00:00:44) Design opened: C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd
+\i (00:00:44) generaledit 
+\i (00:01:09) open 
+\i (00:01:11) fillin "menu_cancel"
+\i (00:01:11) generaledit 
+\i (00:01:15) netin 
+\i (00:01:16) setwindow form.niparams
+\i (00:01:16) FORM niparams import  
+\t (00:01:16) Starting Cadence Logic Import...
+\w (00:01:17) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:01:17) Opening existing design...
+\i (00:01:17) setwindow pcb
+\i (00:01:17) trapsize 1169
+\i (00:01:18) generaledit 
+\i (00:01:27) setwindow text
+\i (00:01:27) close 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) exit 
+\e (00:01:34) Do you want to save the changes you made to C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd?
+\i (00:01:37) fillin yes 
+\t (00:01:38)     Journal end - Wed Apr 05 02:31:41 2017
