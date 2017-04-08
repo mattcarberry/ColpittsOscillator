@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 02:35:25}
+{ Using PSTWRITER 17.2.0 d001Apr-06-2017 at 00:36:05}
 primitive 'C_SMC0805_24PF';
   pin
     '1':
@@ -15,7 +15,7 @@ primitive 'C_SMC0805_24PF';
     VALUE='24pF';
   end_body;
 end_primitive;
-primitive 'C_VAR_SMC0805_24PF';
+primitive 'C_VAR_0_MYSTERY_VARCAP_10-47PF_';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -23,10 +23,13 @@ primitive 'C_VAR_SMC0805_24PF';
     '2':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='C_var';
-    JEDEC_TYPE='SMC0805';
+    PART_NAME='C_var_0';
+    JEDEC_TYPE='MYSTERY_VARCAP_10-47PF';
     VALUE='24pF';
   end_body;
 end_primitive;
@@ -124,6 +127,21 @@ primitive 'MPS2222_SOT23_MPS2222';
     PART_NAME='MPS2222';
     JEDEC_TYPE='SOT23';
     VALUE='MPS2222';
+  end_body;
+end_primitive;
+primitive 'RESISTOR_SMR0805_RESISTOR';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RESISTOR';
+    JEDEC_TYPE='SMR0805';
+    VALUE='RESISTOR';
   end_body;
 end_primitive;
 primitive 'POT_POT_BOURNS_3310_POT';

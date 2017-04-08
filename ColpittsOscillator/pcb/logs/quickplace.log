@@ -4,27 +4,35 @@
 (                                                                     )
 (    Drawing          : ColpittsOscillator.brd                        )
 (    Software Version : 17.2S002                                      )
-(    Date/Time        : Wed Apr 05 02:38:50 2017                      )
+(    Date/Time        : Thu Apr 06 00:08:10 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 State: Placing on layer TOP
 
-         Placed symbol:  R2 / POT_POT_BOURNS_3310_POT / POT_BOURNS_3310 at (9190.5 10410.5)
-         Placed symbol:  Q1 / MPS2222_SOT23_MPS2222 / SOT23 at (9459.5 10070.5)
-         Placed symbol:  CR1 / COAX RECEPTACLE_MOLEX_SMA_COAX / MOLEX_SMA at (9537.5 10180.5)
-         Placed symbol:  C2 / C_VAR_SMC0805_24PF / SMC0805 at (9786.5 10051.0)
-         Placed symbol:  C1 / C_SMC0805_24PF / SMC0805 at (9960.5 10051.0)
-         Placed symbol:  C3 / C_VAR_MYSTERY_VARCAP_2_8PF_6PF / MYSTERY_VARCAP_2_8PF at (10171.0 10210.5)
-         Placed symbol:  C4 / C_SMC0805_1N / SMC0805 at (10672.5 10051.0)
-         Placed symbol:  J1 / HEADER 2_JUMPER2_HEADER 2 / JUMPER2 at (9055.5 10493.5)
-         Placed symbol:  L1 / L_SML0805_10UH / SML0805 at (9252.5 10486.5)
-         Placed symbol:  C5 / C_SMC0805_1N / SMC0805 at (9418.5 10484.0)
-         Placed symbol:  X1 / QZS10MEG_XTAL_ABM3_QZS10MEG / XTAL_ABM3 at (9702.5 10513.5)
+         Placed symbol:  C2 / C_VAR_0_MYSTERY_VARCAP_10-47PF_ / MYSTERY_VARCAP_10-47PF at (-928.5 795.5)
+         Placed symbol:  R2 / POT_POT_BOURNS_3310_POT / POT_BOURNS_3310 at (-360.5 910.5)
+         Placed symbol:  R1 / RESISTOR_SMR0805_RESISTOR / SMR0805 at (-121.5 551.0)
 
 
-Placed 11 of 11 applicable (11 total) symbols.
+Placed 3 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (0 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (0 total) symbols.
 
 -----------------------------------------------------------------------
 

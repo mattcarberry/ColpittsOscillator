@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 02:03:37 }
+{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 23:57:23 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='COLPITTSOSCILLATOR';
@@ -18,7 +18,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C2 'C_VAR_SMC0805_24PF':;
+ C2 'C_VAR_MYSTERY_VARCAP_10_47PF_24':;
 
 SECTION_NUMBER 1
  '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS1231@ANALOG.C_VAR.NORMAL(CHIPS)':
@@ -98,12 +98,32 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R1 'R_VAR_POT_BOURNS_3310_10K':;
+ R1 'RESISTOR_SMR0805_RESISTOR':;
 
 SECTION_NUMBER 1
- '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS1163@ANALOG.R_VAR.NORMAL(CHIPS)':
- C_PATH='@colpittsoscillator.schematic1(sch_1):ins1163@analog.\r_var.normal\(chips)',
- P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins1163@analog.\r_var.normal\(chips)',
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS2934@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins2934@discrete.\resistor.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins2934@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'POT_POT_BOURNS_3310_POT':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS3564@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins3564@discrete.\pot.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins3564@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'POT_POT_BOURNS_3310_POT':;
+
+SECTION_NUMBER 1
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS2529@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins2529@discrete.\pot.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins2529@discrete.\pot.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

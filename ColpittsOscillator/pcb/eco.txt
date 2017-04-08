@@ -3,71 +3,19 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd  |
-|                                                    Wed Apr 05 02:36:12 2017  |
+|                                                    Thu Apr 06 00:36:16 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  0            pins ADDED TO this existing net (pins not previously on any net)
-                                 R2.1                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N00165       pins ADDED TO this existing net (pins not previously on any net)
-                                 R2.2                           
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
-|------------------------------------------------------------------------------|
-|  C:.../Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd  |
-|                                                    Wed Apr 05 02:36:12 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- POT_POT_BOURNS_3310_POT
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  C:.../Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd  |
-|                                                    Wed Apr 05 02:36:12 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R1                  R_VAR_POT_BOURNS_3310_10K                
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  C:.../Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd  |
-|                                                    Wed Apr 05 02:36:12 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2                  POT_POT_BOURNS_3310_POT 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  C:.../Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd  |
-|                                                    Wed Apr 05 02:36:12 2017  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R2.2                           PRIM_FILE      .\pstchip.dat
+  0            pins DELETED FROM this net (pin now not on any net)
+                                 C2.2             1100.0  -265.0
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 C2.3              875.0  -105.0
 |------------------------------------------------------------------------------|
 |       Nets changed          :       2                                        |
-|       Comp definitions added:       1                                        |
-|       Components added      :       1                                        |
-|       Components deleted    :       1                                        |
-|       Slot property added   :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:       6                                        |
+|   Total ECO changes reported:       2                                        |
 |------------------------------------------------------------------------------|

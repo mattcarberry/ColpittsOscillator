@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : ColpittsOscillator.brd                        )
 (    Software Version : 17.2S002                                      )
-(    Date/Time        : Wed Apr 05 02:36:12 2017                      )
+(    Date/Time        : Thu Apr 06 00:36:15 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,7 +22,7 @@ Design Directory:            'C:/Users/mcarberry/Documents/Git/ColpittsOscillato
 Old design name:             'C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd'
 New design name:             'C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd'
 
-CmdLine: netrev -$ -i . -y 1 -q netrev_constraint_report.xml C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/#Taaaaab08248.tmp
+CmdLine: netrev -$ -i . -y 1 -q netrev_constraint_report.xml C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/#Taaaaal06408.tmp
 
 ------ Preparing to read pst files ------
 
@@ -64,7 +64,7 @@ PADPATH =  ../../lib/padstacks
 ------ Summary Statistics ------
 
 
-netrev run on Apr 5 2:36:12 2017
+netrev run on Apr 6 0:36:15 2017
    DESIGN NAME : 'COLPITTSOSCILLATOR'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -89,6 +89,6 @@ netrev run on Apr 5 2:36:12 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:49
-elapsed time  0:00:00
+cpu time      0:00:40
+elapsed time  0:00:01
 

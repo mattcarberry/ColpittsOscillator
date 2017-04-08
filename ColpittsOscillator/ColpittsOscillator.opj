@@ -66,7 +66,8 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\pcb\pstxnet.dat"
       (Type "Report")
@@ -86,6 +87,14 @@
     (Folder "Include Files"))
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector
+    (0
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (POT
       (FullPartName "POT.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -119,10 +128,6 @@
       (LibraryName
          "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
-    (0
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
-      (DeviceIndex "0"))
     (QZS10MEG
       (FullPartName "QZS10MEG.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\XTAL.OLB")
@@ -142,14 +147,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\users\mcarberry\documents\git\colpittsoscillator\colpittsoscillator\colpittsoscillator.dsn")
-      (Path "Design Resources"
-         "c:\users\mcarberry\documents\git\colpittsoscillator\colpittsoscillator\colpittsoscillator.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\colpittsoscillator.dsn")
+      (Path "Design Resources" ".\colpittsoscillator.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"
-         "c:\users\mcarberry\documents\git\colpittsoscillator\colpittsoscillator\colpittsoscillator.dsn"))
+      (Select "Design Resources" ".\colpittsoscillator.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

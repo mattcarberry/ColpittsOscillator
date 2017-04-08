@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Apr-06-2017 at 00:36:05 }
+{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 23:59:41 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='COLPITTSOSCILLATOR';
@@ -18,12 +18,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C2 'C_VAR_0_MYSTERY_VARCAP_10-47PF_':;
+ C2 'C_VAR_MYSTERY_VARCAP_10-47PF_24':;
 
 SECTION_NUMBER 1
- '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS1231@COLPITTSOSCILLATOR.C_VAR_0.NORMAL(CHIPS)':
- C_PATH='@colpittsoscillator.schematic1(sch_1):ins1231@colpittsoscillator.\c_var_0.normal\(chips)',
- P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins1231@colpittsoscillator.\c_var_0.normal\(chips)',
+ '@COLPITTSOSCILLATOR.SCHEMATIC1(SCH_1):INS1231@ANALOG.C_VAR.NORMAL(CHIPS)':
+ C_PATH='@colpittsoscillator.schematic1(sch_1):ins1231@analog.\c_var.normal\(chips)',
+ P_PATH='@colpittsoscillator.schematic1(sch_1):page1_ins1231@analog.\c_var.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

@@ -1,26 +1,56 @@
-\t (00:00:44) allegro 17.2 S002 Windows SPB 64-bit Edition
-\t (00:00:44)     Journal start - Wed Apr 05 02:30:47 2017
-\t (00:00:44)         Host=DESKTOP-NHEKLT3 User=mcarberry Pid=10096 CPUs=4
-\t (00:00:44) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:44) 
-\d (00:00:44) Design opened: C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd
-\i (00:00:44) generaledit 
-\i (00:01:09) open 
-\i (00:01:11) fillin "menu_cancel"
-\i (00:01:11) generaledit 
-\i (00:01:15) netin 
-\i (00:01:16) setwindow form.niparams
-\i (00:01:16) FORM niparams import  
-\t (00:01:16) Starting Cadence Logic Import...
-\w (00:01:17) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
-\t (00:01:17) Opening existing design...
-\i (00:01:17) setwindow pcb
-\i (00:01:17) trapsize 1169
-\i (00:01:18) generaledit 
-\i (00:01:27) setwindow text
-\i (00:01:27) close 
-\i (00:01:34) setwindow pcb
-\i (00:01:34) exit 
-\e (00:01:34) Do you want to save the changes you made to C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd?
-\i (00:01:37) fillin yes 
-\t (00:01:38)     Journal end - Wed Apr 05 02:31:41 2017
+\t (00:00:05) allegro 17.2 S002 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Apr 05 23:57:40 2017
+\t (00:00:05)         Host=DESKTOP-NHEKLT3 User=mcarberry Pid=8564 CPUs=4
+\t (00:00:05) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\mcarberry\Documents\Git\ColpittsOscillator\ColpittsOscillator\pcb\ColpittsOscillator.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd
+\i (00:00:07) trapsize 119
+\i (00:00:07) trapsize 122
+\i (00:00:08) trapsize 146
+\i (00:00:08) trapsize 174
+\i (00:00:08) generaledit 
+\i (00:00:12) netin 
+\i (00:00:15) setwindow form.niparams
+\i (00:00:15) FORM niparams import  
+\t (00:00:15) Starting Cadence Logic Import...
+\w (00:00:16) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:00:16) Opening existing design...
+\i (00:00:16) setwindow pcb
+\i (00:00:16) trapsize 174
+\i (00:00:17) generaledit 
+\i (00:01:15) pick grid -20.5 -685.6
+\t (00:01:15) last pick:  -20.0 -685.0
+\i (00:01:39) xhilite 
+\i (00:01:39) xrefdes C2 
+\t (00:01:39) Can not select unplaced component C2.
+\t (00:01:39) Can not select unplaced component C2.
+\i (00:01:39) xname_flush 
+\i (00:01:39) done 
+\i (00:01:39) generaledit 
+\i (00:02:15) netin 
+\i (00:02:17) setwindow form.niparams
+\i (00:02:17) FORM niparams import  
+\t (00:02:17) Starting Cadence Logic Import...
+\w (00:02:18) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:02:18) Opening existing design...
+\i (00:02:18) setwindow pcb
+\i (00:02:18) trapsize 174
+\i (00:02:19) generaledit 
+\i (00:02:30) setwindow text
+\i (00:02:30) close 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) open 
+\e (00:02:41) Do you want to save the changes you made to C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd?
+\i (00:02:43) fillin yes 
+\i (00:02:47) fillin "ColpittsOscillator.brd"
+\t (00:02:47) Opening existing design...
+\i (00:02:47) trapsize 174
+\d (00:02:47) Design opened: C:/Users/mcarberry/Documents/Git/ColpittsOscillator/ColpittsOscillator/pcb/ColpittsOscillator.brd
+\i (00:02:47) generaledit 
+\i (00:02:49) open 
+\i (00:03:02) fillin "menu_cancel"
+\i (00:03:02) generaledit 
+\i (00:03:06) exit 
+\t (00:03:07)     Journal end - Thu Apr 06 00:00:41 2017

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 23:57:23}
+{ Using PSTWRITER 17.2.0 d001Apr-05-2017 at 23:59:41}
 primitive 'C_SMC0805_24PF';
   pin
     '1':
@@ -15,7 +15,7 @@ primitive 'C_SMC0805_24PF';
     VALUE='24pF';
   end_body;
 end_primitive;
-primitive 'C_VAR_MYSTERY_VARCAP_10_47PF_24';
+primitive 'C_VAR_MYSTERY_VARCAP_10-47PF_24';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -26,7 +26,7 @@ primitive 'C_VAR_MYSTERY_VARCAP_10_47PF_24';
   end_pin;
   body
     PART_NAME='C_var';
-    JEDEC_TYPE='MYSTERY_VARCAP_10_47PF';
+    JEDEC_TYPE='MYSTERY_VARCAP_10-47PF';
     VALUE='24pF';
   end_body;
 end_primitive;
